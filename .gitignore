@@ -1,0 +1,23 @@
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VSCode/IDE/editor junk
+.vscode/
+.idea/
+*.swp
+
+# OS crap
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+*.env
+
+# Data & outputs (optional)
+data/
+outputs/
