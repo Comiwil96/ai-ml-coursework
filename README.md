@@ -12,7 +12,7 @@ Each folder corresponds to a core topic or module from the course:
 - `nlp/`: Natural language processing exercises and projects.
 - `capstone/`: End-of-course or personal projects demonstrating mastery.
 
-## 🔍 What You’ll Find
+## What You’ll Find
 
 - Clean, well-documented Jupyter notebooks  
 - Visualizations and interpretability work  
