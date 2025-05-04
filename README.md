@@ -5,7 +5,7 @@ This repo contains projects and coursework completed as part of the Codecademy D
 ## Structure
 
 Each folder corresponds to a core topic or module from the course:
-- `ai-ml-fundamentals/`: Python skills, EDA, statistical analysis, etc.
+- `ai-ml-foundations/`: Python skills, EDA, statistical analysis, etc.
 - `supervised-learning/`: Linear regression, decision trees, etc.
 - `unsupervised-learning/`: Clustering, dimensionality reduction.
 - `neural-networks/`: Basic feedforward nets, CNNs, etc.
