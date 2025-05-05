@@ -26,7 +26,6 @@ Features include:
 - Exploratory Data Analysis (EDA)
 - Visualization with seaborn & matplotlib
 - Statistical analysis (correlation, distributions)
-- 0Feature importance heuristics (basic)
 
 ---
 
