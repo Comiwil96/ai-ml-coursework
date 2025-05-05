@@ -14,14 +14,14 @@ This project is part of my foundational coursework in AI/ML and sets the stage f
 **Features**: 15 clinical features + 1 binary target (diagnosis)
 
 Features include:
-- Age, presence of heart disease, total resting blood pressure, fasting blood sugar, cholesterol levels, etc.
+- Age, ST-segment depression, exercise induced angina, maximum heart rate during exercise, etc.
 - Target variable: 'Diagnosis of Heart Disease' (0 = no presence, 1-4 = presence)
 
 ---
 
 ## Skills Practiced
 
-- Python basics (functions, loops, list comprehensions)
+- Python basics (functions, loops)
 - Pandas for data wrangling
 - Exploratory Data Analysis (EDA)
 - Visualization with seaborn & matplotlib
